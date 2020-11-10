@@ -1,0 +1,25 @@
+{
+  "name": "stock-ticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apra487/Stock-ticker.git"
+  },
+  "author": "Apratim Mahata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apra487/Stock-ticker/issues"
+  },
+  "homepage": "https://github.com/Apra487/Stock-ticker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.13",
+    "node-fetch": "^2.6.1"
+  }
+}
