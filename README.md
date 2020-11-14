@@ -1,3 +1,3 @@
 # Stock-ticker
 
-A 
+A simple nodejs based
