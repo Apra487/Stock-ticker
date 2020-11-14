@@ -28,7 +28,6 @@ const dayPrices = {};
     console.log(dayPrices);
 })();
 
-// dayPrices.date = new Date(new Date().toISOString()).toLocaleString(undefined, {timeZone: 'Asia/Kolkata'});
 
 
 
