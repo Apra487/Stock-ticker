@@ -1,3 +1,3 @@
 # Stock-ticker
 
-A simple nodejs based
+A simple nodejs based web scrapper
