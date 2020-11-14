@@ -30,8 +30,6 @@ const dayPrices = {};
 
 // dayPrices.date = new Date(new Date().toISOString()).toLocaleString(undefined, {timeZone: 'Asia/Kolkata'});
 
-//Bearer Token = AAAAAAAAAAAAAAAAAAAAALL2IAEAAAAA25Bz72fDmy36GaaTnVV2PgQdzP8%3DCZcnTEHL3tFmcLnSuv4rsZrLyh0qDCJYn4WMTx5juFGdrOL9AI
-
 
 
 
