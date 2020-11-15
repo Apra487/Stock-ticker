@@ -1,3 +1,3 @@
 # Stock-ticker
 
-A simple nodejs based web scrapper that keeps track of different stock prices.
+A nodejs based web scrapper that keeps track of different stock prices.
