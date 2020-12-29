@@ -20,7 +20,6 @@ const dayPrices = {};
         const price = await getPrice(stock.url);
         dayPrices[stock.ticker] = price;
         i++;
-        console.log(i);
     }
     dayPrices.date = new Date().toString();
     dayPrices.date = dayPrices.date.replace('GMT+0530 (India Standard Time)','IST')
