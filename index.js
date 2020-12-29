@@ -33,9 +33,3 @@ const dayPrices = {};
 
 
 
-
-
-
-
-
-
