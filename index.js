@@ -38,7 +38,7 @@ const dayPrices = {};
 
 
 
-// Extra tool
+// ! Extra tool
 /*
 function url(x){
     x= x.toLowerCase().replace(' ', '-');
